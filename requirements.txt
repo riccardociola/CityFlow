@@ -1,0 +1,16 @@
+# Data processing and analysis
+numpy
+pandas
+duckdb
+
+# Visualization and Jupyter notebooks
+matplotlib
+ipykernel
+jinja2
+
+# Machine learning
+scikit-learn
+joblib
+
+# Time zone support
+pytz
